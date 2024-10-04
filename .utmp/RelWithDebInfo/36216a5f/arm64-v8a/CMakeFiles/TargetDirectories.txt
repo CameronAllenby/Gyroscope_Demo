@@ -1,0 +1,5 @@
+C:/temp/C.allenby/Unity/3D Demo GYro/.utmp/RelWithDebInfo/36216a5f/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/temp/C.allenby/Unity/3D Demo GYro/.utmp/RelWithDebInfo/36216a5f/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/temp/C.allenby/Unity/3D Demo GYro/.utmp/RelWithDebInfo/36216a5f/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/temp/C.allenby/Unity/3D Demo GYro/.utmp/RelWithDebInfo/36216a5f/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/temp/C.allenby/Unity/3D Demo GYro/.utmp/RelWithDebInfo/36216a5f/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
