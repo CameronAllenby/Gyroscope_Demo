@@ -27,7 +27,7 @@ public class Gyro_script : MonoBehaviour
     private static Quaternion GyroToUnity(Quaternion q)
     {
         // has to b in the order up and down, forwards and back, left and right.
-        return new Quaternion(-q.x, -q.z, -q.y, q.w);
+        return new Quaternion(q.x, -q.z, q.y, -q.w);
     }
 
     // this is just printing it to the screen
